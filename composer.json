@@ -5,6 +5,11 @@
         }
     },
     "require": {
-        "moneyphp/money": "^3.0"
+        "moneyphp/money": "^3.0",
+        "symfony/routing": "^3.3",
+        "aura/router": "^3.1",
+        "symfony/http-kernel": "^3.3",
+        "symfony/psr-http-message-bridge": "^1.0",
+        "zendframework/zend-diactoros": "^1.4"
     }
 }
